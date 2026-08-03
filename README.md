@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maanas Brahme</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;AI+Developer;Full+Stack+Developer;Business+%26+Technology+Enthusiast;Building+Impactful+AI+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Full+Stack+Developer;Business+%26+Technology+Enthusiast;Building+Impactful+AI+Products" />
 </p>
 
 <h3 align="center">
@@ -182,33 +182,6 @@ Pahal Foundation
 
 Teaching and mentoring underprivileged children.
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maanasb26&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maanasb26&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Maanasb26&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-[![Maanas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maanasb26&theme=tokyo-night)](https://github.com/Maanasb26)
 
 ---
 
