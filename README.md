@@ -77,6 +77,21 @@ Building AI Applications • System Programming • Full Stack Projects • Prod
 
 # 🚀 Featured Projects
 
+## 🤖 Aaspireya Global Tech - AI Business Transformation Assistant 
+> AI-powered Business Transformation Assessment with SMTP
+
+- Flask
+- NLP
+- Gemini API
+- SMTP
+- Python
+- HTML
+- CSS
+- JavaScript
+- Python
+
+---
+
 ## 🤖 Aura AI
 > AI-powered Sentiment Analysis Chatbot
 
